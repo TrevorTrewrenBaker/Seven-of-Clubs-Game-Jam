@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/game-workspace-e2e"
+    },
+    {
+      "path": "./apps/game-workspace"
+    }
+  ]
+}
