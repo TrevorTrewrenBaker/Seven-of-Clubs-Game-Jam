@@ -1,0 +1,8 @@
+{
+  "name": "whack-a-card-app",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "whack-a-card-app/src",
+  "// targets": "to see all targets run: nx show project whack-a-card-app --web",
+  "targets": {}
+}
