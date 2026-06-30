@@ -12,7 +12,7 @@
 This submission is a high-performance web application built to demonstrate architectural proficiency in the Vue 3 ecosystem. The project leverages an **NX monorepo** to enforce strict type safety, modularity, and scalability across complex game logic and UI components. Designed for speed and reliability, the application ensures sub-second load times and optimal SEO performance for a global audience.
 
 ## Architecture & Technical Stack
-*   **Core Framework**: **Nuxt 3** (Vue 3) with **Server-Side Rendering (SSR)** for optimized initial page loads and search engine visibility.
+*   **Core Framework**: Vue 3 with **Server-Side Rendering (SSR)** for optimized initial page loads and search engine visibility.
 *   **Language**: **TypeScript** with `strict: true` configuration, eliminating `any` types and enforcing compile-time safety.
 *   **Build System**: **Vite** configured for rapid hot-module replacement (HMR) and optimized production bundling.
 *   **State Management**: **Pinia** for reactive local state, ensuring predictable data flow and easy debugging.

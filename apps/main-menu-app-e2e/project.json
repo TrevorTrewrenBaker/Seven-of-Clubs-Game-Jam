@@ -1,0 +1,9 @@
+{
+  "name": "main-menu-app-e2e",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "main-menu-app-e2e/src",
+  "implicitDependencies": ["main-menu-app"],
+  "// targets": "to see all targets run: nx show project main-menu-app-e2e --web",
+  "targets": {}
+}
