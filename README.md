@@ -4,7 +4,7 @@
 
 ![Tech Stack](https://img.shields.io/badge/Vue-3.5-4FC08D?logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)
-![Framework](https://img.shields.io/badge/Nuxt-3.0-00C58E?logo=nuxt.js)
+![Framework](https://img.shields.io/badge/Vue-3.0-42B883?logo=vue.js)
 ![Build Tool](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite)
 ![Testing](https://img.shields.io/badge/Test-Vitest+-32CD32?logo=vitest)
 
